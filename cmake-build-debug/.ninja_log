@@ -1,0 +1,6 @@
+# ninja log v6
+0	7	1746375295642324237	clean	9b903cda9b9f55bf
+228	253	1746375296006984089	libhaptic_library.dylib	2eb3f22e842b4bf2
+1	226	1746375295780113769	CMakeFiles/test.dir/library.cpp.o	755f49e6b304890f
+1	324	1746375295779934185	CMakeFiles/test.dir/test.cpp.o	652b8885b90f72b6
+1	228	1746375295780229354	CMakeFiles/haptic_library.dir/library.cpp.o	56fb0867b5ca1c35

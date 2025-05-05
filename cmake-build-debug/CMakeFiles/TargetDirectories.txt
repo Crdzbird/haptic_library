@@ -1,0 +1,4 @@
+/Users/crdzbird/CLionProjects/haptic_library/cmake-build-debug/CMakeFiles/haptic_library.dir
+/Users/crdzbird/CLionProjects/haptic_library/cmake-build-debug/CMakeFiles/haptic_test.dir
+/Users/crdzbird/CLionProjects/haptic_library/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/crdzbird/CLionProjects/haptic_library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
